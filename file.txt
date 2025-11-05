@@ -1,0 +1,4 @@
+What is devops?
+
+DevOps is a set of practices, tools, and a cultural philosophy that integrates software development 
+and IT operations to automate and accelerate the software delivery lifecycle
